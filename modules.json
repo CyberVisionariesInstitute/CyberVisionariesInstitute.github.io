@@ -5,8 +5,8 @@
     "Week 1",
     "Start here. Build your foundation.",
     "Get oriented, set up your learning workspace, and begin a portfolio that grows with your skills.",
-    "module-welcome",
-    "Welcome Center desk from the CVI Learning Lab",
+    "module-welcome-v2",
+    "Welcome Center atrium with a reception desk, learner seating, and a city skyline",
     [
       [
         1,
@@ -23,8 +23,8 @@
     "Weeks 2\u20134",
     "Understand the machine. Then take control.",
     "Explore digital infrastructure, operating systems, the command line, permissions, and virtualization.",
-    "module-foundry",
-    "Foundry workbench from the CVI Learning Lab",
+    "module-foundry-v2",
+    "Foundry District technology workshop with computer hardware, terminal workstations, and a server area",
     [
       [
         2,
