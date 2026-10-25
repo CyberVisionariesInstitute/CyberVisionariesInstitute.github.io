@@ -51,3 +51,6 @@ Nova: user-supplied Nova Avatar Final.png and Nova at the office.gif. The suppli
 WebP copies retain the source appearance with browser-side object-fit crops. Original source images are retained alongside the source package.
 
 © 2026 CyberVisionaries Institute. All rights reserved. CVI branding, characters, artwork, and content are not licensed for redistribution by this package.
+
+## Homepage direction
+The homepage introduces the institute and both pathways with CVI branding. CyberFoundations City artwork is confined to /cyberfoundations/. No City artwork is used on Home or Projects.
