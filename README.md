@@ -78,3 +78,5 @@ Projects, Resources, and About use new AI-generated illustrations approved by To
 Instructor access: `/instructors/` is a navigation page, not an authenticated area. It links to the private `cyberfoundations-labs` repository. GitHub enforces existing access; no instructor contents are copied into the hub. Student-facing portfolio and Learning Lab links remain separate.
 
 Instructor page illustration: `instructors-hero-v1.webp`, created with the built-in image tool. Prompt: professional Black woman cybersecurity instructor preparing a lesson with network hardware and abstract network teaching board, navy/teal cinematic editorial style, warm lighting, wide framing and headline space; no logos or readable text.
+
+About hero v2: original Nova portrait used as identity reference in an image-tool edit of the approved About illustration. Nova is seated beside the mentor in the group; original illustration and portrait preserved. Current asset: `about-hero-nova-v2.webp`.
