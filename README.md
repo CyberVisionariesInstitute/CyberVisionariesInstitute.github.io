@@ -74,3 +74,5 @@ Validation: desktop and 390px mobile program heroes reviewed; all 114 local refe
 
 ### Approved section illustrations
 Projects, Resources, and About use new AI-generated illustrations approved by Tonia, created with the built-in image tool. Prompts: hands-on cybersecurity engineers and network hardware; digital technical research library; adult mentorship and collaborative cybersecurity learning. Shared art direction: cinematic editorial illustration, navy/teal, warm rim light, restrained purple/pink, wide composition with headline space, no logos or text. Assets: `projects-hero-v1.webp`, `resources-hero-v1.webp`, `about-hero-v1.webp`. Original program artwork remains preserved.
+
+Instructor access: `/instructors/` is a navigation page, not an authenticated area. It links to the private `cyberfoundations-labs` repository. GitHub enforces existing access; no instructor contents are copied into the hub. Student-facing portfolio and Learning Lab links remain separate.
