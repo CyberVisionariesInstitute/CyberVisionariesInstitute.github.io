@@ -66,3 +66,7 @@ Homepage hero: existing CVI pathway-guidance artwork. Destination panels reuse e
 
 ## Enhanced pathway artwork
 At Tonia’s request, the existing website pathway landscape was enhanced with the built-in image editor: sharper terrain, controlled illuminated paths, atmospheric depth, and refined sunrise lighting. Original website image retained as website-pathway-guidance-full.webp; edited display copy is pathways-enhanced-v2.webp. Original composition, five signs, and silhouette retained.
+
+## Program section refinement
+CyberFoundations: original City hero and full map, six anchored district descriptions, original Nova/Ivy introductions, portfolio resource, and authenticated Learning Lab handoff. PKI: original hero, three-phase progression, evidence-focused capability overview, official repositories, and authenticated program handoff.
+Validation: desktop and 390px mobile program heroes reviewed; all 114 local references and anchors resolve; original artwork invariants checked; one H1 per page.
