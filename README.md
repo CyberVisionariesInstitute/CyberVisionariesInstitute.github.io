@@ -60,3 +60,6 @@ Reference-informed art direction: original Nova studio portrait in a cinematic C
 
 ## Cybersecurity hierarchy
 Homepage headline explicitly names cybersecurity. Nova is a small supporting guide portrait, not the hero background; mobile copy appears before her portrait.
+
+## Website-sourced homepage imagery
+Homepage hero: existing CVI pathway-guidance artwork. Destination panels reuse existing website Cyber Foundations teaching, homepage pathway session, and portfolio mentorship images. Sources: https://cybervisionariesinstitute.org/ image elements, original files retained without alteration. Nova remains on the CyberFoundations page. No new bitmap artwork generated.
