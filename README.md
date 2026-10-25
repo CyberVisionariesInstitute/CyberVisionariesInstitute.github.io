@@ -63,3 +63,6 @@ Homepage headline explicitly names cybersecurity. Nova is a small supporting gui
 
 ## Website-sourced homepage imagery
 Homepage hero: existing CVI pathway-guidance artwork. Destination panels reuse existing website Cyber Foundations teaching, homepage pathway session, and portfolio mentorship images. Sources: https://cybervisionariesinstitute.org/ image elements, original files retained without alteration. Nova remains on the CyberFoundations page. No new bitmap artwork generated.
+
+## Enhanced pathway artwork
+At Tonia’s request, the existing website pathway landscape was enhanced with the built-in image editor: sharper terrain, controlled illuminated paths, atmospheric depth, and refined sunrise lighting. Original website image retained as website-pathway-guidance-full.webp; edited display copy is pathways-enhanced-v2.webp. Original composition, five signs, and silhouette retained.
