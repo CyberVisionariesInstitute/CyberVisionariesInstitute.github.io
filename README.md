@@ -54,3 +54,6 @@ WebP copies retain the source appearance with browser-side object-fit crops. Ori
 
 ## Homepage direction
 The homepage introduces the institute and both pathways with CVI branding. CyberFoundations City artwork is confined to /cyberfoundations/. No City artwork is used on Home or Projects.
+
+## Immersive homepage revision
+Reference-informed art direction: original Nova studio portrait in a cinematic CVI welcome, editorial typography, illustrated navigational destinations, and restrained hover depth. All character and program art is original CVI material. City map remains exclusive to the CyberFoundations section. The resource desk uses HTML/CSS book motifs, not replacement artwork.
