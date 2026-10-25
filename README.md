@@ -57,3 +57,6 @@ The homepage introduces the institute and both pathways with CVI branding. Cyber
 
 ## Immersive homepage revision
 Reference-informed art direction: original Nova studio portrait in a cinematic CVI welcome, editorial typography, illustrated navigational destinations, and restrained hover depth. All character and program art is original CVI material. City map remains exclusive to the CyberFoundations section. The resource desk uses HTML/CSS book motifs, not replacement artwork.
+
+## Cybersecurity hierarchy
+Homepage headline explicitly names cybersecurity. Nova is a small supporting guide portrait, not the hero background; mobile copy appears before her portrait.
