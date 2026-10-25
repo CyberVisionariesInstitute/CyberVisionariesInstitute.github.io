@@ -80,3 +80,5 @@ Instructor access: `/instructors/` is a navigation page, not an authenticated ar
 Instructor page illustration: `instructors-hero-v1.webp`, created with the built-in image tool. Prompt: professional Black woman cybersecurity instructor preparing a lesson with network hardware and abstract network teaching board, navy/teal cinematic editorial style, warm lighting, wide framing and headline space; no logos or readable text.
 
 About hero v2: original Nova portrait used as identity reference in an image-tool edit of the approved About illustration. Nova is seated beside the mentor in the group; original illustration and portrait preserved. Current asset: `about-hero-nova-v2.webp`.
+
+About hero v3: Nova is the central standing mentor, using the user-supplied gray-blazer image as identity and wardrobe reference. Four original learners retained; no duplicate Nova. Built-in image edit; original scene, palette and headline space preserved. Asset: `about-nova-mentor-v3.webp`.
