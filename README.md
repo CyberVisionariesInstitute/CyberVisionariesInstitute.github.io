@@ -1,2 +1,53 @@
-# CyberVisionariesInstitute.github.io
-CyberVisionaries Institute Technology &amp; Innovation Hub — CyberFoundations and PKI pathways. Unpublished draft.
+# CVI Technology & Innovation Hub — unpublished draft
+
+Six-page GitHub Pages website for CyberVisionaries Institute.
+
+## Review status
+
+- Unpublished draft source uploaded to the private CVI hub repository. GitHub Pages is not enabled.
+- Repository: `CyberVisionariesInstitute/CyberVisionariesInstitute.github.io`.
+- Existing repositories and Lovable applications were not modified.
+- Excluded repositories: cyberfoundations-simulators, cyberfoundations-instructor-demo, from-the-grid-to-cloud-heights, cvi-demo-lab, cvi-learn-hub.
+- Original City, Ivy, PKI, and supplied Nova images reused. No replacement artwork generated.
+- Header currently uses a text treatment of CVI's name. Integrate the approved production logo export before release; no substitute logo has been generated.
+- Confirm the Learning Lab production URL before adding its direct navigation action. Current resources page directs enrolled learners to their cohort links.
+
+## Preview
+
+Run `python3 -m http.server 8000` from this directory and open http://localhost:8000/.
+Opening index.html directly as a local file will not resolve the root-relative paths.
+
+## Pages
+
+Home, /cyberfoundations/, /pki/, /projects/, /resources/, /about/, and 404.html.
+
+## Editing
+
+Edit page content in build.py, then run `python3 build.py`.
+Edit assets/site.css for design and assets/site.js for mobile navigation.
+No dependencies are required to build. Google Fonts is optional at runtime; system font fallbacks are supplied.
+
+## Publication gate
+
+No automatic deployment workflow is included. Do not enable GitHub Pages until Tonia approves publication.
+The generated root index.html and page directories are ready for organization-root hosting.
+Do not overwrite existing repositories, rename program repositories, change permissions, or migrate learning applications.
+
+## Validation performed
+
+- All seven page documents have one H1.
+- 88 local links, assets, and anchors resolved.
+- JavaScript syntax checks passed.
+- Home and CyberFoundations desktop navigation reviewed in browser; PKI desktop hero reviewed.
+- Home, CyberFoundations, and PKI reviewed at 390px using embedded viewport frames.
+- Mobile menu open state verified; Escape-to-close implemented.
+- Clipped mobile CyberFoundations heading corrected and visually rechecked.
+- Full accessibility conformance and authenticated learning flows are not claimed.
+
+## Asset provenance
+
+City, Ivy, and PKI: original asset records in CVI Learning Lab, project b68222a1-335a-445a-ae52-4a8df5bd00b5.
+Nova: user-supplied Nova Avatar Final.png and Nova at the office.gif. The supplied .gif contains one PNG frame.
+WebP copies retain the source appearance with browser-side object-fit crops. Original source images are retained alongside the source package.
+
+© 2026 CyberVisionaries Institute. All rights reserved. CVI branding, characters, artwork, and content are not licensed for redistribution by this package.
