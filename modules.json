@@ -1,0 +1,152 @@
+[
+  [
+    "welcome-center",
+    "Welcome Center",
+    "Week 1",
+    "Start here. Build your foundation.",
+    "Get oriented, set up your learning workspace, and begin a portfolio that grows with your skills.",
+    "module-welcome",
+    "Welcome Center desk from the CVI Learning Lab",
+    [
+      [
+        1,
+        "Your cybersecurity portfolio starts here.",
+        "Create and personalize your GitHub portfolio, organize your course workspace, and learn how to document technical work. This first project gives everything that follows a home.",
+        "A personalized portfolio repository and introductory README.",
+        "GitHub \u00b7 Markdown \u00b7 Documentation"
+      ]
+    ]
+  ],
+  [
+    "foundry-district",
+    "Foundry District",
+    "Weeks 2\u20134",
+    "Understand the machine. Then take control.",
+    "Explore digital infrastructure, operating systems, the command line, permissions, and virtualization.",
+    "module-foundry",
+    "Foundry workbench from the CVI Learning Lab",
+    [
+      [
+        2,
+        "Explore the machine.",
+        "Investigate hardware, operating systems, and live activity on your own computer. Explain how components and running processes work together, connecting real specifications to cybersecurity concepts.",
+        "Machine exploration findings and explanations of hardware and operating system behavior.",
+        "Hardware \u00b7 Operating systems \u00b7 Processes"
+      ],
+      [
+        3,
+        "Navigate with confidence.",
+        "Work through file and folder investigations using the command line. Practice navigating, creating, moving, and inspecting files while recording the commands and observations that explain your work.",
+        "Command-line lab worksheets with evidence of file-system navigation and operations.",
+        "Linux \u00b7 PowerShell \u00b7 File systems"
+      ],
+      [
+        4,
+        "Permissions, search, and your first VM.",
+        "Audit file permissions, investigate an archive using patterns and search, and explore the virtual machine lifecycle in a browser-based builder. Bring your CLI evidence and VM concepts together into the first flagship portfolio deliverable.",
+        "Permission and search lab reports, VM-builder work, and Deliverable 1 evidence.",
+        "Permissions \u00b7 Search \u00b7 Virtualization"
+      ]
+    ]
+  ],
+  [
+    "grid-cloud-heights",
+    "The Grid & Cloud Heights",
+    "Weeks 5\u20137",
+    "Follow the connection. Prove what works.",
+    "Move from network fundamentals into cloud access, troubleshooting, and least-privilege network security.",
+    "module-grid",
+    "Digital infrastructure artwork from the CVI Learning Lab",
+    [
+      [
+        5,
+        "Investigate The Grid.",
+        "Identify addresses and network settings, diagnose an outage, and read a recorded packet capture. Use a structured troubleshooting sequence to distinguish naming problems from reachability failures and explain what the traffic shows.",
+        "Networking worksheets, an incident explanation, and selected packet evidence.",
+        "IP addressing \u00b7 DNS \u00b7 DHCP \u00b7 Packets"
+      ],
+      [
+        6,
+        "From The Grid to Cloud Heights.",
+        "Carry your networking skills into a cloud environment. Connect to your assigned virtual machine, inspect its environment, and investigate connectivity through guided cloud troubleshooting.",
+        "Cloud-access and investigation documentation explaining observations and diagnostic results.",
+        "Cloud infrastructure \u00b7 Remote access \u00b7 Troubleshooting"
+      ],
+      [
+        7,
+        "Defend the Guard Post.",
+        "Read network security rules, design a narrowly scoped service allow, and test both allowed and denied outcomes. Diagnose a controlled rule-priority fault and document why the final configuration works.",
+        "A network security investigation with test evidence and Deliverable 2.",
+        "Network rules \u00b7 Least privilege \u00b7 Verification"
+      ]
+    ]
+  ],
+  [
+    "vault-district",
+    "Vault District",
+    "Weeks 8\u20139",
+    "Protect the message. Verify the trust.",
+    "Make encryption, integrity, signatures, certificates, and TLS tangible through practical investigations.",
+    "module-vault",
+    "Trust Authority entrance from the CyberFoundations Capstone project",
+    [
+      [
+        8,
+        "Work the Vault Exchange.",
+        "Investigate one incident across encryption, hashing, digital signatures, and public-key authentication. Explain what each mechanism protects and use the results to distinguish secrecy, integrity, and identity.",
+        "Cryptography lab documentation and an evidence-based incident explanation.",
+        "Encryption \u00b7 Hashing \u00b7 Signatures \u00b7 SSH keys"
+      ],
+      [
+        9,
+        "Build and test digital trust.",
+        "First inspect a real website certificate and its chain. Then create a practice key and certificate request, issue and inspect a certificate, and compare successful and intentionally failed local TLS validation.",
+        "Two certificate and TLS lab worksheets with reviewed verification evidence.",
+        "Certificates \u00b7 Trust chains \u00b7 TLS"
+      ]
+    ]
+  ],
+  [
+    "city-hall-registry",
+    "City Hall & Registry",
+    "Weeks 10\u201311",
+    "Protect what matters. Govern who gets access.",
+    "Connect security judgment with identity and access management in realistic browser-based investigations.",
+    "module-registry",
+    "Cloud Heights Family Clinic entrance from the CyberFoundations Capstone project",
+    [
+      [
+        10,
+        "Think like a security professional.",
+        "Investigate the fictional Cloud Heights Family Clinic. Identify business assets, separate evidence from assumptions, assess risks, prioritize two concerns, and recommend controls in a short briefing.",
+        "Two Markdown reports: Investigate What Needs Protection and Prioritize Risks and Recommend Controls.",
+        "CIA triad \u00b7 Threats \u00b7 Risk \u00b7 Controls"
+      ],
+      [
+        11,
+        "Investigate identity and access.",
+        "Complete six connected missions in the Cloud Heights Identity Center. Explore directories, authentication and authorization, least privilege, and joiner\u2013mover\u2013leaver changes before assembling an evidence-based IAM investigation.",
+        "Six lab reports, including the IAM Investigation Case File\u2014Portfolio Deliverable 4\u2014and supporting evidence.",
+        "AD DS \u00b7 Entra ID \u00b7 RBAC \u00b7 Identity lifecycle"
+      ]
+    ]
+  ],
+  [
+    "broadcast-tower",
+    "Broadcast Tower",
+    "Week 12",
+    "Turn evidence into a story people can act on.",
+    "Bring your investigation forward into clear technical reporting and leadership communication.",
+    "module-broadcast",
+    "Ivy at the Broadcast Tower from the CyberFoundations Capstone project",
+    [
+      [
+        12,
+        "Communicate your investigation.",
+        "Use your own Week 11 IAM Case File to strengthen findings, write a Technical Incident Report, and make actionable recommendations. Choose one executive format: a written summary or a short video briefing. The project connects technical evidence to decisions a leadership audience can understand.",
+        "Portfolio Deliverable 5: the technical report, one executive communication format, and the source manifest.",
+        "Evidence \u00b7 Technical writing \u00b7 Executive communication"
+      ]
+    ]
+  ]
+]
