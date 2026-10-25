@@ -9,8 +9,8 @@ Six-page GitHub Pages website for CyberVisionaries Institute.
 - Existing repositories and Lovable applications were not modified.
 - Excluded repositories: cyberfoundations-simulators, cyberfoundations-instructor-demo, from-the-grid-to-cloud-heights, cvi-demo-lab, cvi-learn-hub.
 - Original City, Ivy, PKI, and supplied Nova images reused. No replacement artwork generated.
-- Header currently uses a text treatment of CVI's name. Integrate the approved production logo export before release; no substitute logo has been generated.
-- Confirm the Learning Lab production URL before adding its direct navigation action. Current resources page directs enrolled learners to their cohort links.
+- Official user-supplied Black Logo.png integrated in header and footer without changing the source image.
+- Student-facing Learning Lab: https://learninglab.cybervisionariesinstitute.org — linked in navigation and resources. Existing Learning Lab access controls remain unchanged.
 
 ## Preview
 
