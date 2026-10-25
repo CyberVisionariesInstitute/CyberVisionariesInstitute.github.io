@@ -70,3 +70,7 @@ At Tonia’s request, the existing website pathway landscape was enhanced with t
 ## Program section refinement
 CyberFoundations: original City hero and full map, six anchored district descriptions, original Nova/Ivy introductions, portfolio resource, and authenticated Learning Lab handoff. PKI: original hero, three-phase progression, evidence-focused capability overview, official repositories, and authenticated program handoff.
 Validation: desktop and 390px mobile program heroes reviewed; all 114 local references and anchors resolve; original artwork invariants checked; one H1 per page.
+
+
+### Approved section illustrations
+Projects, Resources, and About use new AI-generated illustrations approved by Tonia, created with the built-in image tool. Prompts: hands-on cybersecurity engineers and network hardware; digital technical research library; adult mentorship and collaborative cybersecurity learning. Shared art direction: cinematic editorial illustration, navy/teal, warm rim light, restrained purple/pink, wide composition with headline space, no logos or text. Assets: `projects-hero-v1.webp`, `resources-hero-v1.webp`, `about-hero-v1.webp`. Original program artwork remains preserved.
